@@ -1,0 +1,28 @@
+.card-container {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  margin: 20px;
+  
+}
+
+.card {
+  background-color: #fff;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 15px;
+  border: 1px black solid;
+  width: 250px;
+}
+#titulos{
+  text-align: center;
+}
+#mensaje{
+  color: red;
+}
+
+#filtro {
+  width: 400px;
+  border-radius: 5px;
+}
